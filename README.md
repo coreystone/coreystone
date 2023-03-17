@@ -1,8 +1,7 @@
 ## Hello there 👋
 
-My name is Corey and I'm passionate about digital privacy and helping people reclaim theirs. I've been working on some tools and projects to help myself and others flex our privacy rights with the services we use and the data brokers that, unbeknownst to us, "use" us. 
+My name is Corey and I'm passionate about digital privacy and helping people reclaim theirs. I've been working on some tools and projects to help myself and others flex our privacy rights with the services we use and the data brokers that "use" us. 
 
-Everything I present below has been a labor of love and a profound learning experience. 
 
 🔗 **My website**: [coreyst.one/](https://coreyst.one/)
 
